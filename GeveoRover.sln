@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeveoRover", "GeveoRover\GeveoRover.csproj", "{39F983FA-2CE3-4C3F-88EA-E07DB357B280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeveoRoverTests", "GeveoRoverTests\GeveoRoverTests.csproj", "{DEE6F550-23E7-451F-8472-48A6074CD3D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39F983FA-2CE3-4C3F-88EA-E07DB357B280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F983FA-2CE3-4C3F-88EA-E07DB357B280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F983FA-2CE3-4C3F-88EA-E07DB357B280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F983FA-2CE3-4C3F-88EA-E07DB357B280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEE6F550-23E7-451F-8472-48A6074CD3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE6F550-23E7-451F-8472-48A6074CD3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE6F550-23E7-451F-8472-48A6074CD3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE6F550-23E7-451F-8472-48A6074CD3D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FAA09BE-A151-4780-938A-74907FE0DEE4}
+	EndGlobalSection
+EndGlobal
